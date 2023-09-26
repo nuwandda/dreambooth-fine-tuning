@@ -1,0 +1,9 @@
+accelerate
+torchvision
+transformers
+ftfy
+tensorboard
+modelcards
+gradio
+bitsandbytes
+git+https://github.com/ShivamShrirao/diffusers.git
